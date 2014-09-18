@@ -23,11 +23,12 @@ Abstract
    Administration Management (OAM) would be beneficial for monitoring
    and troubleshooting operations of network and service infrastructure.
 
-   This document identifies and discusses key use-cases and 
-   high-level requirements for layer independent OAM Management to
-   facilitate operations and maintenance in multi-layer and multi-domain
-   networks using a wide variety of heterogeneous networking 
-   technologies.
+   This document identifies and discusses the key use-cases and high-
+   level requirements for layer independent Operations, Administration, 
+   and Maintenance management to facilitate operations and maintenance 
+   in multi-layer and multi-domain networks utilizing a wide variety of 
+   heterogeneous networking technologies.
+
 
 Status of This Memo
 
