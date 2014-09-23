@@ -13,13 +13,13 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
    The absence of a common approach to OAM and to the management 
    interfaces for OAM has made it very difficult for operators to:
 
-   • Suppres large numbers of unnecessary alarms and notifications 
+   • Suppress large numbers of unnecessary alarms and notifications 
      related to defects and failures arising in lower layers and visible 
      in each higher layer
    • Quickly identify root causes of network failures
    • Coordinate end-to-end performance measurement with the results of 
      performance monitoring at different layers in the network
-   • Correlate status defects, faults, and network failures between the 
+   • Correlate defects, faults, and network failures between the 
      different layers to improve efficiency of defect and fault 
      localization and provide better OAM visibility.
 
@@ -35,22 +35,31 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
 
    The working group will work on the following deliverables:
 
+   • Information models for generic layer-independent and technology
+     independent configuration, reporting and presentatio of OAM 
+     mechanisms.
+     
    • YANG data models for generic layer-independent and technology-
      independent configuration, reporting and presentation for OAM 
-     mechanisms. Information models may also be produced if they are 
-     useful to the working group in performing this task.
+     mechanisms. Data models expressed in other languages than YANG
+     may be considered.
 
    • An architecture for new IETF OAM that can be used as guidance by 
      other working groups developing new OAM protocols or modifying 
      existing OAM protocols at any layer and for any technology that is 
-     within scope for the IETF. The initial scope is restricted to a 
-     single administrative domain and may be extended for inter-domain 
-     scenarios in future as and when a need rises.
-
-   The working group may also produce a document describing use-cases 
+     within scope for the IETF. 
+   
+   The initial scope is restricted to a single administrative domain 
+   and may be extended for inter-domain scenarios in future as and 
+   when a need rises.
+     
+   The working group will explore and document use-cases 
    for converged management of OAM in multi-layer and multi-technology 
-   networks. The use cases will consider both the case of a centralized 
-   control point for all OAM, and devolved per-layer control points.
+   networks that triggered this work. The use cases will consider both 
+   the case of a centralized control point for all OAM. The delegation
+   of layer specific OAM management control points case may be 
+   considered in the future. The working group will decide later whether 
+   the use case document needs to be published as an RFC.
 
    The working group will not develop any new OAM protocols.
 
@@ -61,6 +70,6 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
    should be applicable to multiple layers and technologies in a 
    technology agnostic fashion. Therefore, it is anticipated that the 
    working group will closely coordinate its activities with other SDOs 
-   (including, but not limited to the ITU-T, IEEE, and BBF) to ensure 
+   (including, but not limited to the ITU-T, IEEE, BBF and 3GPP) to ensure 
    that the generic models are harmonized with work done in those SDOs 
    and are applicable to many technologies.
