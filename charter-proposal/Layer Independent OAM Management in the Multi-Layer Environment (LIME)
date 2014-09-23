@@ -54,7 +54,7 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
    triggered this work. The use cases will consider scenarios that 
    include (but are not limited to) those that rely upon a centralized 
    control point responsible for the overall OAM management and those 
-   that assume the delegation of layer-specific OMA management control 
+   that assume the delegation of layer-specific OAM management control 
    points. The working group will decide later whether 
    the use case document needs to be published as an RFC.
    
