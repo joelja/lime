@@ -39,10 +39,10 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
      independent configuration, reporting and presentatio of OAM 
      mechanisms.
      
-   • YANG data models for generic layer-independent and technology-
-     independent configuration, reporting and presentation for OAM 
-     mechanisms. Data models expressed in other languages than YANG
-     may be considered.
+   • YANG data models, based on above mentioned IM, for generic 
+     layer-independent and technology-independent configuration, 
+     reporting and presentation for OAM mechanisms. Data models 
+     expressed in other languages than YANG may be considered.
 
    • An architecture for new IETF OAM that can be used as guidance by 
      other working groups developing new OAM protocols or modifying 
