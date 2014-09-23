@@ -49,17 +49,18 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
      existing OAM protocols at any layer and for any technology that is 
      within scope for the IETF. 
    
+   The working group will explore and document use-cases for converged
+   management of OAM in multi-layer and multi-technology networks that 
+   triggered this work. The use cases will consider scenarios that 
+   include (but are not limited to) those that rely upon a centralized 
+   control point responsible for the overall OAM management and those 
+   that assume the delegation of layer-specific OMA management control 
+   points. The working group will decide later whether 
+   the use case document needs to be published as an RFC.
+   
    The initial scope is restricted to a single administrative domain 
    and may be extended for inter-domain scenarios in future as and 
    when a need rises.
-     
-   The working group will explore and document use-cases 
-   for converged management of OAM in multi-layer and multi-technology 
-   networks that triggered this work. The use cases will consider both 
-   the case of a centralized control point for all OAM. The delegation
-   of layer specific OAM management control points case may be 
-   considered in the future. The working group will decide later whether 
-   the use case document needs to be published as an RFC.
 
    The working group will not develop any new OAM protocols.
 
