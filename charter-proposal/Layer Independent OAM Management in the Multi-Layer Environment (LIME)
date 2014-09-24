@@ -29,9 +29,9 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
    configuration, reporting, and presentation for the OAM mechanisms 
    used to manage the network, regardless of the layers and 
    technologies. It will also produce architectural guidelines for the 
-   development of new OAM tools and protocols so that they may be 
-   coherent with these mechanisms and more easily integrated from 
-   an operational points of view.
+   development of new OAM tools and protocols in both management plane
+   and data plane so that they may be coherent with these mechanisms and
+   more easily integrated from an operational points of view.
 
    The working group will work on the following deliverables:
 
