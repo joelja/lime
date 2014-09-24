@@ -1,9 +1,9 @@
 Layer Independent OAM Management in the Multi-Layer Environment (LIME)
 ------------------------------------------------------------------------
 
-   Network Operators have been increasingly challenged with operational 
-   and management limitations in typical network deployments due to 
-   siloed Operations, Administration, and Maintenance (OAM) in 
+   Network Operators are increasingly challenged with operational 
+   and management limitations in network deployments due to 
+   Operations, Administration, and Maintenance (OAM)  operating at 
    different administrative and technology layers. This problem is 
    exacerbated by the lack of a common architectural approach to OAM 
    tools in those different layers. New work on network virtualization 
@@ -11,7 +11,7 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
    coordinating OAM between layers.
 
    The absence of a common approach to OAM and to the management 
-   interfaces for OAM has made it very difficult for operators to:
+   interfaces for OAM has made it difficult for operators to:
 
    • Suppress large numbers of unnecessary alarms and notifications 
      related to defects and failures arising in lower layers and visible 
