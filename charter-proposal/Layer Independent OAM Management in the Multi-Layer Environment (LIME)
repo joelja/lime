@@ -30,8 +30,8 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
    used to manage the network, regardless of the layers and 
    technologies. It will also produce architectural guidelines for the 
    development of new OAM tools and protocols so that they may be 
-   coherent with these mechanisms and more easily integrated across 
-   layers.
+   coherent with these mechanisms and more easily integrated from 
+   an operational points of view.
 
    The working group will work on the following deliverables:
 
@@ -71,6 +71,6 @@ Layer Independent OAM Management in the Multi-Layer Environment (LIME)
    should be applicable to multiple layers and technologies in a 
    technology agnostic fashion. Therefore, it is anticipated that the 
    working group will closely coordinate its activities with other SDOs 
-   (including, but not limited to the ITU-T, IEEE, BBF and 3GPP) to ensure 
-   that the generic models are harmonized with work done in those SDOs 
-   and are applicable to many technologies.
+   (including, but not limited to the ITU-T, MEF, IEEE, BBF and 3GPP) to 
+   ensure that the generic models are harmonized with work done in those 
+   SDOs and are applicable to many technologies.
